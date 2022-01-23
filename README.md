@@ -7,6 +7,6 @@ I am Shimul Hossain. A passionate web application developer.
 - 🤔 I’m looking for help with React
 - 💬 Ask me about anything on my Twitter
 - 📫 How to reach me: [Twitter](https://twitter.com/XyShimul)
-- 😄 Pronouns: Shee-Moo-l
+- 😄 Pronouns: Shee-Muu-l
 - ⚡ Fun fact: I love when people appriciate my works
 

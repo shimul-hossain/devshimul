@@ -8,5 +8,5 @@ I am Shimul Hossain. A passionate web application developer.
 - 💬 Ask me about anything on my Twitter
 - 📫 How to reach me: [Twitter](https://twitter.com/XyShimul)
 - 😄 Pronouns: Shee-Muu-l
-- ⚡ Fun fact: I love when people appriciate my works!!
+- ⚡ Fun fact: I love when people appriciate my works
 
